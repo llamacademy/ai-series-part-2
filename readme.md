@@ -1,5 +1,5 @@
 # Navmesh AI Tutorial 2 - Adding Jump to your NavmeshAgents with NavMeshLink
-The below video is the tutorial that **ENDS** where this project is. If you would like to follow along, check out the [1. What is a NavMesh Setting Up Your First NavMesh](https://github.com/llamacademy/navmesh-ai-tutorial/tree/main/1.%20What%20is%20a%20NavMesh%20Setting%20Up%20Your%20First%20Navmesh) folder.
+The below video is the tutorial that **ENDS** where this project is. If you would like to follow along, check out the [AI Series Part 1](https://github.com/llamacademy/ai-series-part-1)!
 
 [![Youtube Tutorial](./Video%20Screenshot.png)](https://www.youtube.com/watch?v=dpJUc_BpChw&ref=github)
 
